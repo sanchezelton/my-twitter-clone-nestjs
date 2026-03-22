@@ -40,6 +40,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:30.0.0"],\
           ["@types/node", "npm:22.19.15"],\
           ["@types/supertest", "npm:6.0.3"],\
+          ["dotenv", "npm:17.3.1"],\
           ["eslint", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:9.39.4"],\
           ["eslint-config-prettier", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:10.1.8"],\
           ["eslint-plugin-prettier", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:5.5.5"],\
@@ -5015,6 +5016,13 @@ const RAW_RUNTIME_STATE =
           ["dotenv", "npm:16.6.1"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:17.3.1", {\
+        "packageLocation": "../../.yarn/berry/cache/dotenv-npm-17.3.1-6ae845833c-10c0.zip/node_modules/dotenv/",\
+        "packageDependencies": [\
+          ["dotenv", "npm:17.3.1"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["dunder-proto", [\
@@ -7733,6 +7741,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:30.0.0"],\
           ["@types/node", "npm:22.19.15"],\
           ["@types/supertest", "npm:6.0.3"],\
+          ["dotenv", "npm:17.3.1"],\
           ["eslint", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:9.39.4"],\
           ["eslint-config-prettier", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:10.1.8"],\
           ["eslint-plugin-prettier", "virtual:a8e01282313140c728eabc567e922a3d5484858738fae9e027e6777178c0fd67449f7fb7d429e6e19e48202a46d5984e20b8f2bb84e1c9e3c7f0972991994009#npm:5.5.5"],\
