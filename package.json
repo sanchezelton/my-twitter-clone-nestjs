@@ -1,8 +1,8 @@
 {
   "name": "my-twitter-clone-nestjs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A project to test a Twitter clone using NestJS and Prisma",
+  "author": "Elton Sanchez <3165000+sanchezelton@users.noreply.github.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
