@@ -9,10 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- This CHANGELOG file to hopefully serve as an evolving example of a
-  standardized open source project CHANGELOG.
-- [TWN-009](https://github.com/sanchezelton/my-twitter-clone-nestjs/issues/8) Add GitHub
-  Pull Request Template
+- This CHANGELOG file to hopefully serve as an evolving example of a standardized open
+  source project CHANGELOG.
+- [TWN-009](https://github.com/sanchezelton/my-twitter-clone-nestjs/issues/8) Add GitHub Pull Request Template
 
 ### Changed
 
@@ -22,7 +21,7 @@ TBD
 
 TBD
 
-[unreleased]: https://github.com/sanchezelton/my-twitter-clone-nestjs/compare/v1.1.1...HEAD
+[unreleased]: https://github.com/sanchezelton/my-twitter-clone-nestjs/compare/v0.0.1...HEAD
 
 <!-- [1.1.1]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...v1.1.0
@@ -36,5 +35,6 @@ TBD
 [0.0.5]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...v0.0.3
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1 -->
+[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2 -->
+
+[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
