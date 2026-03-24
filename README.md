@@ -53,6 +53,9 @@ $ yarn run test
 # e2e tests
 $ yarn run test:e2e
 
+# e2e DB tests (Playwright)
+$ yarn run test:e2e:playwright
+
 # test coverage
 $ yarn run test:cov
 ```
